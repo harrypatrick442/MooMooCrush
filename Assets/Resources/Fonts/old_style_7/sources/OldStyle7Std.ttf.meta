@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 4a4e4bd4deb11524bbd7d3f795164209
+timeCreated: 1489043174
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Old Style 7 Std
+  fontNames:
+  - Old Style 7 Std
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 2bd8b230c4e5b8344970c40fd0854169
+timeCreated: 1487180469
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Grixel Acme 5 CompCapsOX
+  fontNames:
+  - Grixel Acme 5 CompCapsOX
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

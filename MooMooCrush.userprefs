@@ -1,0 +1,50 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Resources\Scripts\MessageBot.cs">
+    <Files>
+      <File FileName="Assets\Resources\Scripts\Weapons\MachineGun.cs" Line="1" Column="1" />
+      <File FileName="Assets\Resources\Scripts\Sounds\AudioPlayer.cs" Line="10" Column="6" />
+      <File FileName="Assets\Resources\Scripts\Interfaces\IBin.cs" Line="1" Column="1" />
+      <File FileName="Assets\Resources\Scripts\Display\Display.cs" Line="27" Column="42" />
+      <File FileName="Assets\Resources\Scripts\Interfaces\IReadyToFinish.cs" Line="1" Column="1" />
+      <File FileName="Assets\Resources\Scripts\Display\DisplayItemInstance.cs" Line="1" Column="1" />
+      <File FileName="Assets\Resources\Scripts\Display\DisplayItem.cs" Line="1" Column="1" />
+      <File FileName="Assets\Resources\Scripts\Display\MovingText.cs" Line="1" Column="1" />
+      <File FileName="Assets\Resources\Scripts\Sounds\PlayingSoundEffectHandle.cs" Line="1" Column="1" />
+      <File FileName="Assets\Resources\Scripts\Interfaces\IPhasable.cs" Line="16" Column="1" />
+      <File FileName="Assets\Resources\Scripts\Cows\Cow.cs" Line="527" Column="32" />
+      <File FileName="Assets\Resources\Scripts\Bomb.cs" Line="40" Column="14" />
+      <File FileName="Assets\Resources\Scripts\MessageBot.cs" Line="53" Column="22" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MooMooCrush" expanded="True">
+            <Node name="Assembly-CSharp" expanded="True">
+              <Node name="Resources" expanded="True">
+                <Node name="Scripts" expanded="True">
+                  <Node name="Cows" expanded="True" />
+                  <Node name="Display" expanded="True" />
+                  <Node name="Food" expanded="True" />
+                  <Node name="Interfaces" expanded="True" />
+                  <Node name="Sounds" expanded="True" />
+                  <Node name="Weapons" expanded="True" />
+                  <Node name="MessageBot.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.NUnit.TestPad">
+        <State name="__root__">
+          <Node name="MooMooCrush" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

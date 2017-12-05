@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: d7e17394d5b1ffb498d44360b28fd798
+timeCreated: 1487177255
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: BM utopia
+  fontNames:
+  - BM utopia
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

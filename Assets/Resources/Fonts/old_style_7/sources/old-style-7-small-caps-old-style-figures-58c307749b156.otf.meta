@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 17a3893db1e83504ba7d76553c4ea30a
+timeCreated: 1489176771
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Old Style 7 Small Caps & Old St
+  fontNames:
+  - Old Style 7 Small Caps & Old St
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
